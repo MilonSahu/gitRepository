@@ -5,6 +5,7 @@ public class GitPractice {
 		System.out.println("Madhuri is mad");
 		System.out.println("viji is mad");
 		System.out.println("rana is mad");
+		System.out.println("all are  mad");
 
 	}
 
